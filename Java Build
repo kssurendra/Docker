@@ -1,0 +1,6 @@
+mkdir java-project  (inside)
+mkdir java-app 
+vim Hello.java
+vim Dockerfile
+
+docker build . -t java-app
